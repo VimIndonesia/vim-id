@@ -11,4 +11,5 @@ Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar 
 
 ## Todo
 1. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
-2.
+2. ...
+
