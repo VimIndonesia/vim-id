@@ -10,6 +10,7 @@ Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar 
 >Sumber: Agung Setiawan - https://t.me/VimID/15124
 
 ## Todo
-1. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
-2. ...
+1. Petunjuk untuk yang ingin ikut berkontribusi
+2. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
+3. ...
 
