@@ -8,3 +8,7 @@ Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar 
 >Yang nulis yang punya kasus atau yang memberikan jawaban terhadap suatu kasus pertanyaan.
 >
 >Sumber: Agung Setiawan - https://t.me/VimID/15124
+
+## Todo
+1. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
+2.
