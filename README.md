@@ -1,3 +1,5 @@
+# Kumpulan Jurus-jurus Sakti - Vim Indonesia
+
 ## Tujuan dari Repositori Ini
 Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar dalam history chat di group Telegram Vim Indonesia.
 
