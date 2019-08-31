@@ -10,11 +10,9 @@ Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar 
 >Yang nulis yang punya kasus atau yang memberikan jawaban terhadap suatu kasus pertanyaan.
 >
 >Sumber: Agung Setiawan - https://t.me/VimID/15124
-<br>
 
 ## Usulan
 Untuk menampung usulan/masukan ide dari teman-teman. Silahkan mengisi/menambahkan pada file [`raw-idea.md`](https://github.com/vim-id/tips/blob/master/raw-idea.md)
-<br>
 
 ## Todo
 1. Petunjuk untuk yang ingin ikut berkontribusi
