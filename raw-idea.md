@@ -9,3 +9,4 @@ Hasil masukan dari teman-teman.
 2. [rtorr/cheatsheet](//github.com/rtorr/vim-cheat-sheet)
 3. [simulasi regex](//regexr.com) <- ganti dulu ke pcre. jangan asal copas, jangan lupa regex vim aga beda jadi harus pake `\v` ato murni vim regex dari ingetan. [info lebih lenjut di sini](//stackoverflow.com/questions/3864467/whats-the-difference-between-vim-regex-and-normal-regex)
 4. [vimrc modular saya](//github.com/FONZACUS/miv) jangan liat lama: ya, ntar malu
+5. [sekalian vim windows](//ci.appveyor.com/project/FONZACUS/vim-min) bisa install/portable. kayanya bisa langsung ambil tanpa login.
