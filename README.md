@@ -11,6 +11,8 @@ Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar 
 >
 >Sumber: Agung Setiawan - https://t.me/VimID/15124
 
+## Usulan
+Untuk menampung usulan/masukan ide dari teman-teman. Silahkan mengisi/menambahkan pada file `[raw-idea.md](https://github.com/vim-id/tips/blob/master/raw-idea.md)`
 ## Todo
 1. Petunjuk untuk yang ingin ikut berkontribusi
 2. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
