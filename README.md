@@ -1,5 +1,15 @@
 # Kumpulan Jurus-jurus Sakti
 
+## Informasi
+
+Berdasarkan beberapa usulan dan diskusi cepat yang dilakukan oleh teman-teman di group Telegram Vim Indonesia, Kami telah memutuskan untuk mengganti nama repositori ini menjadi `vim-id/vim-id`.
+
+Untuk teman-teman yang memiliki cloning terhadap repository ini, dipersilahkan untuk melakukan "[*Changing a Remote's URL*](https://help.github.com/en/articles/changing-a-remote-s-url)".
+
+```
+$ git remote set-url origin git@github.com:vim-id/vim-id.git
+```
+
 ## Tujuan dari Repositori Ini
 Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar dalam history chat di group Telegram Vim Indonesia.
 
