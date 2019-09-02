@@ -15,6 +15,15 @@ Terdapat banyak fitur pada plugin ini, yakni: Fuzzy file, buffer, mru, tag, find
 ## [ack.vim](https://github.com/mileszs/ack.vim)
 Anda tau ack? Ya, plugin ini dapat membantu untuk mencari pola pada setiap file didalam folder aktif saat ini.
 
+## [ferret](https://github.com/wincent/ferret)
+Plugin search yang lebih modern, dan memiliki banyak setting defaults yang lebih sederhana.
+
+## [vim-airline](https://github.com/vim-airline/vim-airline)
+Status (dan tab) line yang cantik dan menarik, juga memiliki dukungan untuk berbagai plugin lainnya seperti NerdTree.
+
+## [vim-visual-multi](https://github.com/mg979/vim-visual-multi)
+Membawa fitur modern pada Vim, yaitu menggunakan beberapa cursor, sekaligus mengedit semuanya bersamaan. Ini salah satu usaha untuk membangkit Vim ke jaman modern.
+
 ## [fzf.vim](https://github.com/junegunn/fzf.vim)
 fzf is a general-purpose command-line fuzzy finder that can be used with any list; files, command history, processes, hostnames, bookmarks, git commits, etc.
 
