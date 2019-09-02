@@ -1,6 +1,6 @@
 # Ini adalah daftar plugin terfavorit
 
-# Todo
+## Todo
 1. Mungkin perlu pengelompokan jenis plugin biar lebih rapi, trus mungkin juga perlu sorting berdasar popularitasnya (jumlah star)
 
 ## [NerdTree](https://github.com/scrooloose/nerdtree)
