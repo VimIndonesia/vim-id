@@ -1,5 +1,8 @@
 # Ini adalah daftar plugin terfavorit
 
+# Todo
+1. Mungkin perlu pengelompokan jenis plugin biar lebih rapi, trus mungkin juga perlu sorting berdasar popularitasnya (jumlah star)
+
 ## [NerdTree](https://github.com/scrooloose/nerdtree)
 Tree explorer pada vim. Vim sesungguhnya memiliki editor bawaan **netrw**, namun saya lebih menyukai NerdTree karena lebih mudah digunakan dan lebih banyak hal yang dapat dilakukan.
 
