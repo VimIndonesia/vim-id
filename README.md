@@ -9,6 +9,10 @@ Untuk teman-teman yang memiliki cloning terhadap repository ini, dipersilahkan u
 ```
 $ git remote set-url origin git@github.com:vim-id/vim-id.git
 ```
+Untuk yang fork, ganti *origin* dengan *upstream*
+```
+$ git remote set-url upstream git@github.com:vim-id/vim-id.git
+```
 
 ## Tujuan dari Repositori Ini
 Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar dalam history chat di group Telegram Vim Indonesia.
