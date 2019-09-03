@@ -1,48 +1,9 @@
-<!--
-**Note: for support questions, please use stackoverflow**. This repository's issues are reserved for feature requests and bug reports.
-
-* **I'm submitting a ...**
-  - [ ] bug report
-  - [ ] feature request
-  - [ ] support request => Please do not submit support request here, see note at the top of this template.
-
-
-* **Do you want to request a *feature* or report a *bug*?**
-
-
-
-* **What is the current behavior?**
-
-
-
-* **If the current behavior is a bug, please provide the steps to reproduce and if possible a minimal demo of the problem** via
-https://plnkr.co or similar (you can use this template as a starting point: http://plnkr.co/edit/tpl:AvJOMERrnz94ekVua0u5).
-
-
-
-* **What is the expected behavior?**
-
-
-
-* **What is the motivation / use case for changing the behavior?**
-
-
-
-* **Please tell us about your environment:**
-  
-  - Version: 2.0.0-beta.X
-  - Browser: [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView ]
-  - Language: [all | TypeScript X.X | ES6/7 | ES5 | Dart]
-
-* **Other information** (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, gitter, etc)
-
--->
-**Catatan: untuk pertanyaan dukungan, silakan gunakan stackoverflow**. Masalah repositori ini dicadangkan untuk permintaan fitur dan laporan bug.
+**Catatan: untuk pertanyaan dukungan, silakan gunakan [Telegram/vim-id](https://t.me/VimID)**. Masalah repositori ini dicadangkan untuk permintaan fitur dan laporan bug.
 
 * **Saya mengirimkan ...**
-  - [ ] laporan bug
-  - [ ] permintaan fitur
-  - [ ] permintaan dukungan => Tolong jangan kirimkan permintaan dukungan di sini, lihat catatan di bagian atas template ini.
+  - [x] laporan bug
+  - [x] permintaan fitur
+  - hapuslah salah satu.
 
 
 * **Apakah Anda ingin meminta *fitur* atau melaporkan *bug*?**
@@ -53,8 +14,7 @@ https://plnkr.co or similar (you can use this template as a starting point: http
 
 
 
-* **Jika perilaku saat ini adalah bug, berikan langkah-langkah untuk mereproduksi dan jika mungkin demo minimal masalah** via
-https://plnkr.co atau sejenisnya (Anda dapat menggunakan templat ini sebagai titik awal: http://plnkr.co/edit/tpl:AvJOMERrnz94ekVua0u5).
+* **Jika perilaku saat ini adalah bug, berikan langkah-langkah untuk mereproduksi dan jika mungkin demo minimal masalah.**
 
 
 
@@ -72,5 +32,5 @@ https://plnkr.co atau sejenisnya (Anda dapat menggunakan templat ini sebagai tit
   - Browser: [semua | Chrome XX | Firefox XX | IE XX | Safari XX | Seluler Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView]
   - Bahasa: [semua | TypeScript X.X | ES6 / 7 | ES5 | Anak panah]
 
-* **Informasi lain** (mis. Penjelasan terperinci, tumpukan jejak, masalah terkait, saran cara memperbaikinya, tautan agar kami memiliki konteks, mis. Stackoverflow, gitter, dll)
+* **Informasi lain** (mis. Penjelasan terperinci, tumpukan jejak, masalah terkait, saran cara memperbaikinya, tautan agar kami memiliki konteks, mis. Telegram dll)
 

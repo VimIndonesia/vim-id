@@ -1,24 +1,24 @@
-* **Please check if the PR fulfills these requirements**
-- [ ] The commit message follows our guidelines
-- [ ] Tests for the changes have been added (for bug fixes / features)
-- [ ] Docs have been added / updated (for bug fixes / features)
+* **Silakan periksa apakah PR memenuhi persyaratan ini**
+  - [] Pesan komit mengikuti pedoman kami
+  - [] Tes untuk perubahan telah ditambahkan (untuk perbaikan bug/fitur)
+  - [] Dokumentasi telah ditambahkan/diperbarui (untuk perbaikan bug/fitur)
 
 
-* **What kind of change does this PR introduce?** (Bug fix, feature, docs update, ...)
-
-
-
-* **What is the current behavior?** (You can also link to an open issue here)
+* **Perubahan apa yang diperkenalkan PR ini?** (Perbaikan bug, fitur, pembaruan dokumen, ...)
 
 
 
-* **What is the new behavior (if this is a feature change)?**
+* **Apa perilaku saat ini?** (Anda juga dapat menautkan ke masalah terbuka di sini)
 
 
 
-* **Does this PR introduce a breaking change?** (What changes might users need to make in their application due to this PR?)
+* **Apa perilaku baru (jika ini adalah perubahan fitur)?**
 
 
 
-* **Other information**:
+* **Apakah PR ini memperkenalkan perubahan yang melanggar?** (Perubahan apa yang mungkin perlu dilakukan pengguna dalam aplikasi mereka karena PR ini?)
+
+
+
+* **Informasi lainnya**:
 
