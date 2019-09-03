@@ -1,3 +1,4 @@
+<!--
 **Note: for support questions, please use stackoverflow**. This repository's issues are reserved for feature requests and bug reports.
 
 * **I'm submitting a ...**
@@ -34,4 +35,42 @@ https://plnkr.co or similar (you can use this template as a starting point: http
   - Language: [all | TypeScript X.X | ES6/7 | ES5 | Dart]
 
 * **Other information** (e.g. detailed explanation, stacktraces, related issues, suggestions how to fix, links for us to have context, eg. stackoverflow, gitter, etc)
+
+-->
+**Catatan: untuk pertanyaan dukungan, silakan gunakan stackoverflow**. Masalah repositori ini dicadangkan untuk permintaan fitur dan laporan bug.
+
+* **Saya mengirimkan ...**
+  - [ ] laporan bug
+  - [ ] permintaan fitur
+  - [ ] permintaan dukungan => Tolong jangan kirimkan permintaan dukungan di sini, lihat catatan di bagian atas template ini.
+
+
+* **Apakah Anda ingin meminta *fitur* atau melaporkan *bug*?**
+
+
+
+* **Bagaimana perilaku saat ini?**
+
+
+
+* **Jika perilaku saat ini adalah bug, berikan langkah-langkah untuk mereproduksi dan jika mungkin demo minimal masalah** via
+https://plnkr.co atau sejenisnya (Anda dapat menggunakan templat ini sebagai titik awal: http://plnkr.co/edit/tpl:AvJOMERrnz94ekVua0u5).
+
+
+
+* **Apa perilaku yang diharapkan?**
+
+
+
+* **Apa motivasi / kasus penggunaan untuk mengubah perilaku?**
+
+
+
+* **Tolong beritahu kami tentang lingkungan Anda:**
+  
+  - Versi: 2.0.0-beta.X
+  - Browser: [semua | Chrome XX | Firefox XX | IE XX | Safari XX | Seluler Chrome XX | Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX WKWebView]
+  - Bahasa: [semua | TypeScript X.X | ES6 / 7 | ES5 | Anak panah]
+
+* **Informasi lain** (mis. Penjelasan terperinci, tumpukan jejak, masalah terkait, saran cara memperbaikinya, tautan agar kami memiliki konteks, mis. Stackoverflow, gitter, dll)
 
