@@ -1,5 +1,7 @@
 # Pedoman Berkontribusi
 
+Untuk belajar git lebih lengkap, silakan kunjungi [petanikode/belajar-git](https://github.com/petanikode/belajar-git).
+
 *Pull request* (alias permintaan perubahan) adalah cara termudah untuk menyumbangkan perubahan pada *git* dan *repos* (alias proyek) di Github. Mereka adalah metode kontribusi yang disukai, karena mereka menawarkan cara yang bagus untuk berkomentar dan mengubah perubahan yang diusulkan.
 
 * Anda memerlukan *fork* (alias salinan) lokal/web dari repo GitHub.

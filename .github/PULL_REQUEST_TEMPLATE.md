@@ -1,7 +1,7 @@
 * **Silakan periksa apakah PR memenuhi persyaratan ini**
-  - [] Pesan komit mengikuti pedoman kami
-  - [] Tes untuk perubahan telah ditambahkan (untuk perbaikan bug/fitur)
-  - [] Dokumentasi telah ditambahkan/diperbarui (untuk perbaikan bug/fitur)
+  - [ ] Pesan komit mengikuti pedoman kami
+  - [ ] Tes untuk perubahan telah ditambahkan (untuk perbaikan bug/fitur)
+  - [ ] Dokumentasi telah ditambahkan/diperbarui (untuk perbaikan bug/fitur)
 
 
 * **Perubahan apa yang diperkenalkan PR ini?** (Perbaikan bug, fitur, pembaruan dokumen, ...)
