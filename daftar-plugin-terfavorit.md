@@ -42,3 +42,6 @@ Fungsinya untuk menginstal berbagai jenis plugin vim dengan mudah
 
 * ### [deoplete.nvim](https://github.com/Shougo/deoplete.nvim)
   Dark powered asynchronous completion framework for neovim/Vim8
+
+* ### [coc.nvim](https://github.com/neoclide/coc.nvim)
+  Make your vim8/neovim smart as VSCode
