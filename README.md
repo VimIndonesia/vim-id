@@ -1,4 +1,4 @@
-# Kumpulan Jurus-jurus Sakti
+# Kumpulan Jurus-jurus Sakti Vim Indonesia
 
 ## Informasi
 
@@ -28,8 +28,14 @@ Mengumpulkan dan mendokumentasikan "ilmu-ilmu sakti" yang tercecer dan tersebar 
 ## Usulan
 Untuk menampung usulan/masukan ide dari teman-teman. Silahkan mengisi/menambahkan pada file [`raw-idea.md`](https://github.com/vim-id/tips/blob/master/raw-idea.md)
 
-## Todo
-1. Petunjuk untuk yang ingin ikut berkontribusi
-2. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
-3. ...
+## Pencarian
 
+Untuk memudahkan pencarian *tips* dan *trick* pada repositori ini, teman-teman dapat memanfaatkan fitur "[**Find file**](https://github.com/vim-id/vim-id/find/master)" yang sudah disediakan oleh GitHub.
+
+![](https://i.imgur.com/CoKMWc4.gif)
+
+## To Do
+1. ~~Petunjuk untuk yang ingin ikut berkontribusi~~
+2. Tips menulis judul, agar memiliki karakteristik yang unik dan mewakili isi dari artikel
+3. Membuat direktori untuk mengelompokkan *tips* dan *trick* berdasarkan kategori
+4. Membuat *default template* untuk membantu dalam menulis
