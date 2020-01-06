@@ -32,7 +32,7 @@ Untuk menampung usulan/masukan ide dari teman-teman. Silahkan mengisi/menambahka
 
 Untuk memudahkan pencarian *tips* dan *trick* pada repositori ini, teman-teman dapat memanfaatkan fitur "[**Find file**](https://github.com/vim-id/vim-id/find/master)" yang sudah disediakan oleh GitHub.
 
-![](https://i.imgur.com/CoKMWc4.gif)
+![](https://i.imgur.com/DrU15Nc.gif)
 
 ## To Do
 1. ~~Petunjuk untuk yang ingin ikut berkontribusi~~
