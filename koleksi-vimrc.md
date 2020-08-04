@@ -19,3 +19,4 @@
 | [Yeri Pratama](https://github.com/pirey)            | [dotfiles](https://github.com/pirey/dotfiles/tree/master/home/.config/nvim)     |
 | [Hezby Muhammad](https://github.com/hezbymuhammad)  | [dotfiles](https://github.com/hezbymuhammad/dotfiles/blob/master/.vimrc)        |
 | [Fadhil Muhammad](https://github.com/padulkemid)    | [mbp-dotfiles](https://github.com/padulkemid/mbp-dotfiles/tree/master/.config/nvim) |
+| [Nico Audy](https://github.com/nicoaudy)            | [dotfiles](https://github.com/nicoaudy/dotfiles)                                |
