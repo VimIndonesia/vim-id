@@ -13,7 +13,7 @@
 | :-------------------------------------------------- | :------------------------------------------------------------------------------ |
 | [Rizqi Nur Assyaufi](https://github.com/bandithijo) | [nvimrc](https://github.com/bandithijo/nvimrc)                                  |
 | [M Nabil Adani](https://github.com/mnabila)         | [nvimrc](https://github.com/mnabila/nvimrc)                                     |
-| [elianiva](https://github.com/elianiva)             | [dotfiles](https://github.com/elianiva/dotfiles/tree/master/.config/nvim)       |
+| [elianiva](https://github.com/elianiva)             | [dotfiles](https://github.com/elianiva/dotfiles/tree/master/nvim)               |
 | [Syaiful Bahri](https://github.com/kenardes)        | [dotfiles](https://github.com/kenardes/dotfiles/tree/master/archlinux/neovim)   |
 | [D](https://github.com/difaagh)                     | [.vim](https://github.com/difaagh/.vim)                                         |
 | [Yeri Pratama](https://github.com/pirey)            | [dotfiles](https://github.com/pirey/dotfiles/tree/master/home/.config/nvim)     |
