@@ -69,8 +69,99 @@ seperti ini:
 :CocInstall coc-json coc-tsserver
 ```
 
+### Ale dan Deoplete
+[ALE](https://github.com/dense-analysis/ale) bertindak sebagai LSP
+(Language Server Protocol) client. Sederhananya, ALE menyediakan support untuk
+menulis kode pada bahasa pemrograman kalian, seperti menunjukkan syntax yang
+salah, *menyediakan completion*, dll.
+
+Defaultnya, untuk memunculkan completion yang telah disediakan oleh ALE, kalian
+harus menekan Ctrl-x lalu Ctrl-n. Agar kalian bisa memunculkan completion-nya
+secara otomatis, seperti di VSCode, kalian memerlukan
+[deoplete](https://github.com/Shougo/deoplete.nvim).
+
+#### Memasang ALE dan Deoplete
+Karena deoplete ditulis dengan bahasa python, maka kita perlu memasang `pynvim`
+agar neovim bisa membaca codenya. Deoplete juga membutuhkan
+[`msgpack`](https://github.com/msgpack/msgpack-python) agar bisa berfungsi.
+
+```
+pip3 install --user pynvim msgpack
+```
+
+Setelah itu kita tinggal memasang ALE dan deoplete
+
+```vim
+Plug 'dense-analysis/ale'
+Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
+```
+
+#### Menggunakan ALE dan Deoplete
+
+Perlu diingat bahwa ALE hanyalah LSP client. Kalian juga perlu memasang
+language server sesuai bahasa pemrograman yang kalian pakai. Kalian bisa
+melihat daftar language server tersebut di [sini](https://langserver.org/#implementations-server).
+
+Setelah itu letakkan konfigurasi ini setelah konfigurasi vim-plug.
+
+```vim
+" Mengaktifkan deoplete
+let g:deoplete#enable_at_startup = 1
+
+" Menjadikan ALE sebagai sumber completion
+call deoplete#custom#option('sources', {
+\ '_': ['ale'],
+\})
+```
+
+### Neovim built-in LSP client dan Nvim-compe
+Jika kalian menggunakan Neovim 0.5+, kalian bisa menggunakan
+[nvim-compe](https://github.com/hrsh7th/nvim-compe) dan built-in LSP client
+yang telah disediakan neovim sebagai pengganti ALE dan deoplete.
+
+#### Memasang Nvim-lspconfig dan Nvim-compe
+[Nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) adalah plugin untuk
+memudahkan kita mengonfigurasi pengaturan LSP client yang disediakan Neovim.
+
+Kita bisa memasang nvim-lspconfig dan nvim-compe dengan vim-plug maupun
+[packer.nvim](https://github.com/wbthomason/packer.nvim)
+
+###### Vim-plug
+
+```vim
+Plug 'neovim/nvim-lspconfig'
+Plug 'hrsh7th/nvim-compe'
+```
+
+###### Packer.nvim
+
+```lua
+use 'neovim/nvim-lspconfig'
+use 'hrsh7th/nvim-compe'
+```
+
+#### Menggunakan Nvim-lspconfig dan Nvim-compe
+Seperti yang telah dijelaskan di [sini](#menggunakan-ale-dan-deoplete), jangan
+lupa untuk memasang language server sesuai bahasa pemrograman yang kalian pakai.
+
+Setelah itu kalian bisa menaruh konfigurasi nvim-compe di `init.lua` 
+
+```lua
+require'compe'.setup {
+  enabled = true;
+  autocomplete = true;
+  documentation = true;
+
+  source = {
+    nvim_lsp = true;
+  };
+}
+```
+
 ## Bagaimana Cara Memunculkan Sidebar seperti di VSCode?
-Sidebar yang digunakan untuk menjelajahi berkas dinamakan tree-explorer di vim. Plugin tree-explorer ada banyak macamnya tetapi yang paling banyak digunakan adalah [NERDTree](https://github.com/preservim/nerdtree).
+Sidebar yang digunakan untuk menjelajahi berkas dinamakan tree-explorer di vim.
+Plugin tree-explorer ada banyak macamnya tetapi yang paling banyak digunakan
+adalah [NERDTree](https://github.com/preservim/nerdtree).
 
 #### Memasang NERDTree
 Pasang nerdtree dengan vim-plug
@@ -80,4 +171,5 @@ Plug 'preservim/nerdtree'
 ```
 
 #### Menggunakan NERDTree
-Untuk membuka tree-explorer dengan nerdtree, kalian bisa menggunakan perintah `:NERDTree`.
+Untuk membuka tree-explorer dengan nerdtree, kalian bisa menggunakan perintah
+`:NERDTree`.
