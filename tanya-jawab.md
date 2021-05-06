@@ -163,6 +163,8 @@ Sidebar yang digunakan untuk menjelajahi berkas dinamakan tree-explorer di vim.
 Plugin tree-explorer ada banyak macamnya tetapi yang paling banyak digunakan
 adalah [NERDTree](https://github.com/preservim/nerdtree).
 
+### NERDTree
+
 #### Memasang NERDTree
 Pasang nerdtree dengan vim-plug
 
