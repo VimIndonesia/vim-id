@@ -21,3 +21,4 @@
 | [Fadhil Muhammad](https://github.com/padulkemid)    | [mbp-dotfiles](https://github.com/padulkemid/mbp-dotfiles/tree/master/.config/nvim) |
 | [Nico Audy](https://github.com/nicoaudy)            | [dotfiles](https://github.com/nicoaudy/dotfiles)                                |
 | [Ahmad Shiddiq](https://github.com/ahmad-shiddiq)   | [dotfiles](https://github.com/ahmad-shiddiq/dotfiles)                                   | 
+| [Rais Zainuri](https://github.com/raiszainuri)      | [en-vim](https://github.com/raiszainuri/en-vim)                                 |
